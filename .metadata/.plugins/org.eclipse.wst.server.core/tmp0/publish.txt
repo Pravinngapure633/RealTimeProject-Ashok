@@ -1,0 +1,6 @@
+#Tomcat publish data
+#Sat Jun 03 16:08:10 IST 2023
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\Pravin\ Nagpure\\.m2\\repository\\org\\apache\\tomcat\\embed\\tomcat-embed-jasper\\9.0.75\\tomcat-embed-jasper-9.0.75.jar=D\:\\Application\\Spring\\Spring App\\sts-bundle\\pivotal-tc-server\\instances\\base-instance\\wtpwebapps\\01-Report-App\\WEB-INF\\lib\\tomcat-embed-jasper-9.0.75.jar
+org.eclipse.jst.jee.server\:01-Report-App=D\:\\Application\\Spring\\Spring App\\sts-bundle\\pivotal-tc-server\\instances\\base-instance\\wtpwebapps\\01-Report-App
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\Pravin\ Nagpure\\.m2\\repository\\org\\apache\\tomcat\\embed\\tomcat-embed-el\\9.0.75\\tomcat-embed-el-9.0.75.jar=D\:\\Application\\Spring\\Spring App\\sts-bundle\\pivotal-tc-server\\instances\\base-instance\\wtpwebapps\\01-Report-App\\WEB-INF\\lib\\tomcat-embed-el-9.0.75.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\Pravin\ Nagpure\\.m2\\repository\\org\\springframework\\spring-web\\5.3.27\\spring-web-5.3.27.jar=D\:\\Application\\Spring\\Spring App\\sts-bundle\\pivotal-tc-server\\instances\\base-instance\\wtpwebapps\\01-Report-App\\WEB-INF\\lib\\spring-web-5.3.27.jar
